@@ -1,0 +1,11 @@
+
+   Speedtest by Ookla
+
+     Server: JLLC "COSMOS TV" - Minsk (id = 10323)
+        ISP: COSMOS Telecom
+    Latency:     0.43 ms   (0.05 ms jitter)
+   Download:   839.03 Mbps (data used: 400.0 MB)                               
+     Upload:   692.92 Mbps (data used: 901.5 MB)                               
+Packet Loss:     0.0%
+ Result URL: https://www.speedtest.net/result/c/eb9b17d5-eb74-4922-b605-a51180332715
+Mon Apr 13 14:42:47 UTC 2020
